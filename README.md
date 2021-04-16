@@ -7,7 +7,7 @@ Cat(concatenate) command is very frequently used in Linux. It reads data from th
 Cat command is not present in windows cmd. So in this project i have created a cat command for windows cmd which works similar to the linux cat command.
 This is mini nodejs project which is made using javascript in node js.
 
-**There  are various uses of cat command, some are included in this nodejs project are**
+## There  are various uses of cat command, some are included in this nodejs project are ##
  1. To display Contents of File
  2. To View Contents of Multiple Files
  3. To Remove continuous Empty Lines to one(-s)
